@@ -1,0 +1,30 @@
+body {
+    font-family: 'Lato', sans-serif;
+    color: #747704;
+    font-weight: 300;
+}
+
+footer {
+    margin-top: 5px;
+    background-color: #dbdbdb;
+}
+
+.text-muted {
+    color: #BCBBBB;
+}
+
+.test-thin {
+    font-weight: 100;
+}
+
+.title-super {
+    font-size: 60px;
+}
+
+.title-logo {
+    margin-top: 20px;
+}
+
+#footer-creator {
+    margin: 5px 5px 5px 5px;
+}
