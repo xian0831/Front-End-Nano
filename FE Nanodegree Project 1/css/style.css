@@ -9,6 +9,10 @@ footer {
     background-color: #dbdbdb;
 }
 
+.center-image {
+    margin: 0 auto;
+}
+
 .text-muted {
     color: #BCBBBB;
 }
@@ -27,4 +31,11 @@ footer {
 
 #footer-creator {
     margin: 5px 5px 5px 5px;
+}
+
+@media screen and (max-width: 1090px) {
+    .center-image {
+        margin: 0 auto;
+        width: 100%;
+    }
 }
