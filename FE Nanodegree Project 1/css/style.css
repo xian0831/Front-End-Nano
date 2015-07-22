@@ -39,3 +39,12 @@ footer {
         width: 100%;
     }
 }
+
+@media screen and (max-width: 990px) {
+    /*Make the logo image center in smaller screen*/
+    .title-logo {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
