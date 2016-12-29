@@ -1,0 +1,3 @@
+[submodule "p2"]
+	path = p2
+	url = https://github.com/xian0831/frontend-nanodegree-resume
