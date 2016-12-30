@@ -4,3 +4,12 @@
 [submodule "p3"]
 	path = p3
 	url = https://github.com/xian0831/frontend-nanodegree-arcade-game
+[submodule "p4"]
+	path = p4
+	url = https://github.com/xian0831/frontend-nanodegree-mobile-portfolio
+[submodule "p5"]
+	path = p5
+	url = https://github.com/xian0831/neighborhood-map
+[submodule "p6"]
+	path = p6
+	url = https://github.com/xian0831/feedreader
