@@ -1,3 +1,6 @@
 [submodule "p2"]
 	path = p2
 	url = https://github.com/xian0831/frontend-nanodegree-resume
+[submodule "p3"]
+	path = p3
+	url = https://github.com/xian0831/frontend-nanodegree-arcade-game
